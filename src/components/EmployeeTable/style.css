@@ -1,0 +1,35 @@
+table {
+width: 100%;
+font-family: 'MedievalSharp', cursive;
+
+}
+
+th, td {
+    text-align: center;
+    
+}
+
+ th {
+    border-bottom: 1px solid black;
+    font-weight: 300;
+    font-size: 20px;
+    font-style: bold;
+   
+
+  }
+
+  img {
+      height: 105px;
+      width: 150px;
+    
+  }
+  tr {
+      margin-bottom: 30px;
+  }
+  
+  input {
+    margin: 0 auto;
+    display: block;
+  }
+
+  
