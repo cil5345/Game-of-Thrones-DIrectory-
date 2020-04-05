@@ -1,1 +1,1 @@
-# Game-of-Thrones-DIrectory-
+# Game-of-Thrones-Directory-
