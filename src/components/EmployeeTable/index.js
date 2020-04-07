@@ -72,7 +72,7 @@ export class EmployeeTable extends Component {
       const searchName = event.target.value.toLowerCase();
       console.log(searchName);
 
-      const newName = this.state.employees.filter(item => {
+      const newName = employees.filter(item => {
         return item.name.toLowerCase().includes(searchName);
       });
       console.log(newName);
